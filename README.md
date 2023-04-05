@@ -3,12 +3,8 @@ WordWare is a simple game inspired by WarioWare in which players have 10 seconds
 
 Current games include: finish the rhyme, find a synonym, decrypt the code, and word rearrange. Others will be added soon!
 Title Screen:
-![1](https://user-images.githubusercontent.com/124653793/217258905-22e6b3e9-934c-4b7d-89a0-9dfdff4d5237.png)
+![Screenshot from 2023-04-05 16-29-33](https://user-images.githubusercontent.com/124653793/230226514-a49850a4-2beb-4abc-8f64-75b2c3e6d00f.png)
 
-Games:
-![3](https://user-images.githubusercontent.com/124653793/217258898-cd761626-a169-438f-8ca7-fcc3724cfe86.png)
-![4](https://user-images.githubusercontent.com/124653793/217258901-98d5abfc-ba69-477a-afbc-6dec3f265a15.png)
-![2](https://user-images.githubusercontent.com/124653793/217258909-0b04e28e-788b-4dcc-91a2-19de325eb30f.png)
-
-Scoreboard:
-![5](https://user-images.githubusercontent.com/124653793/217258902-41c263d4-cdbc-42e2-9f8b-4e9463b2057b.png)
+UI:
+![Screenshot from 2023-04-05 16-29-48](https://user-images.githubusercontent.com/124653793/230226568-45b6f8bd-dbac-42f8-ba0b-59e71cf262ee.png)
+![Screenshot from 2023-04-05 16-30-20](https://user-images.githubusercontent.com/124653793/230226570-8efc1f3b-55ef-4f40-9a9f-ba67474b18f3.png)
